@@ -12,5 +12,5 @@ A custom node for ComfyUI that allows users to concatenate strings from predefin
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/OpalSky-AI/OpalSky_Nodes]
+git clone https://github.com/OpalSky-AI/OpalSky_Nodes
 
