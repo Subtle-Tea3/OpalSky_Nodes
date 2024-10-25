@@ -1,0 +1,1 @@
+from .string_switch_opalsky import NODE_CLASS_MAPPINGS
