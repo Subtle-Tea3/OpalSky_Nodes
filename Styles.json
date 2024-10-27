@@ -1,0 +1,106 @@
+{
+    "Lighting and Atmosphere": {
+        "categories": ["none", "Volumetric", "Cinematic: Epic", "Cinematic: Soft Cinematic", "Cinematic: Vintage", "Cinematic: Neo-noir", "Low-key", "High-key", "Natural Light: Golden Hour", "Natural Light: Soft Daylight", "Artificial Light: Fluorescent", "Artificial Light: Neon", "Backlighting"],
+        "tags": {
+            "none": "",
+            "Volumetric": "dramatic lighting, volumetric, moody, fog, light rays, ethereal glow",
+            "Cinematic: Epic": "high contrast, dramatic shadows, vibrant, sweeping light, filmic",
+            "Cinematic: Soft Cinematic": "subtle contrast, warm tones, natural, soft shadows",
+            "Cinematic: Vintage": "film grain, muted tones, nostalgic, sepia, retro look",
+            "Cinematic: Neo-noir": "dark shadows, high contrast, moody, urban, gritty",
+            "Low-key": "dark, moody, bokeh, deep shadows, low saturation",
+            "High-key": "bright, airy, high exposure, vibrant whites, soft shadows",
+            "Natural Light: Golden Hour": "soft warmth, golden hues, sunrise/sunset, gentle light",
+            "Natural Light: Soft Daylight": "outdoor lighting, diffused light, natural shadows, clear",
+            "Artificial Light: Fluorescent": "bright, cool tones, indoor lighting, sterile, vibrant",
+            "Artificial Light: Neon": "vibrant colors, neon lights, urban glow, cyberpunk vibe",
+            "Backlighting": "soft silhouette, rim light, dramatic shadows, ethereal glow"
+        }
+    },
+    "Artistic Medium and Texture": {
+        "categories": ["none", "Traditional Painting: Oil", "Traditional Painting: Watercolor", "Traditional Painting: Acrylic", "Digital Painting: Concept Art", "Digital Painting: Hyperrealistic", "Cel Animation: 90s Disney", "Cel Animation: Anime", "Graffiti", "Low-Poly", "Ink: Black and White", "Ink: Wash", "Mosaic", "Origami", "Claymation", "Pixel Art", "3D Render: Pixar Style", "3D Render: Realistic"],
+        "tags": {
+            "none": "",
+            "Traditional Painting: Oil": "rich texture, visible brush strokes, oil on canvas, fine art",
+            "Traditional Painting: Watercolor": "soft tones, paper grain, delicate washes, natural bleed",
+            "Traditional Painting: Acrylic": "bright colors, solid textures, layered brush strokes",
+            "Digital Painting: Concept Art": "vivid colors, smooth gradients, fantasy, sci-fi",
+            "Digital Painting: Hyperrealistic": "photo-realism, detailed, polished, high contrast",
+            "Cel Animation: 90s Disney": "hand-drawn, vibrant colors, clean lines, expressive",
+            "Cel Animation: Anime": "vibrant colors, cel shading, bold outlines, iconic anime",
+            "Graffiti": "urban style, spray paint, tags, street art, gritty texture",
+            "Low-Poly": "geometric, retro game style, blocky, simple textures",
+            "Ink: Black and White": "monochrome, cross-hatching, clean lines, bold contrast",
+            "Ink: Wash": "soft, watery, gentle gradations, classic comic look",
+            "Mosaic": "tiles, fragmented design, color blocks, abstract",
+            "Origami": "folded paper, geometric shapes, simple, clean lines",
+            "Claymation": "handmade texture, stop-motion, tangible details",
+            "Pixel Art": "8-bit style, retro, pixelated, low resolution, nostalgic",
+            "3D Render: Pixar Style": "smooth textures, vivid colors, stylized, playful characters",
+            "3D Render: Realistic": "high detail, octane render, photorealistic, complex textures"
+        }
+    },
+    "Cultural and Genre Influences": {
+        "categories": ["none", "Cyberpunk: Vaporwave", "Cyberpunk: Dystopian", "Fantasy: High Fantasy", "Fantasy: Dark Fantasy", "Fantasy: Elemental", "Sci-Fi: Space Opera", "Sci-Fi: Alien Worlds", "Anime: Shonen", "Anime: Shojo", "Anime: Mecha", "Anime: Cyber Anime", "Comic: Western", "Comic: Manga", "Retro: 80s", "Retro: 90s", "Retro: Pop Art", "Steampunk", "Gothic Horror", "Dieselpunk", "Lovecraftian", "Historical: Victorian", "Historical: Medieval"],
+        "tags": {
+            "none": "",
+            "Cyberpunk: Vaporwave": "neon lights, high-tech, futuristic, bold colors, surreal",
+            "Cyberpunk: Dystopian": "dark atmosphere, gritty, neon signs, urban, high contrast",
+            "Fantasy: High Fantasy": "celestial, epic, magical realism, mythical creatures, enchanted",
+            "Fantasy: Dark Fantasy": "grim, eerie, dark atmosphere, ominous, twisted landscapes",
+            "Fantasy: Elemental": "elemental powers, fire, water, earth, air, mystical forces",
+            "Sci-Fi: Space Opera": "galactic, advanced tech, spaceships, dramatic landscapes",
+            "Sci-Fi: Alien Worlds": "extraterrestrial, surreal landscapes, bioluminescent",
+            "Anime: Shonen": "action-packed, heroic, dynamic poses, bright colors",
+            "Anime: Shojo": "romantic, pastel colors, soft light, feminine, dreamlike",
+            "Anime: Mecha": "giant robots, futuristic, mechanical, sci-fi, strong lines",
+            "Anime: Cyber Anime": "neon glow, dark futuristic, cybernetic, cityscapes",
+            "Comic: Western": "bold lines, vibrant colors, action scenes, dynamic",
+            "Comic: Manga": "monochrome, expressive, detailed line work, emotional",
+            "Retro: 80s": "neon colors, geometric, pop culture, vintage vibe",
+            "Retro: 90s": "grunge, pastel, nostalgic, dynamic style",
+            "Retro: Pop Art": "bold outlines, halftone, bright colors, iconic look",
+            "Steampunk": "brass, mechanical, Victorian influence, steam-powered",
+            "Gothic Horror": "dark, eerie, shadows, gothic architecture, haunted",
+            "Dieselpunk": "industrial, WWII-inspired, gritty, mechanical",
+            "Lovecraftian": "eldritch, cosmic horror, surreal, twisted creatures",
+            "Historical: Victorian": "ornate, muted tones, refined, historical charm",
+            "Historical: Medieval": "knights, castles, earthy tones, old-world style"
+        }
+    },
+    "Composition and Style Structure": {
+        "categories": ["none", "Cinematic: Dramatic", "Cinematic: Shallow Depth", "Minimalist", "Isometric", "Vignette", "Line Art", "Abstract", "Symmetrical", "Chaos", "Centered Composition", "Dynamic Composition"],
+        "tags": {
+            "none": "",
+            "Cinematic: Dramatic": "high contrast, dark shadows, strong focus on subject",
+            "Cinematic: Shallow Depth": "blurred background, sharp foreground, close-up",
+            "Minimalist": "clean lines, empty space, simplicity, sparse detail",
+            "Isometric": "geometric, three-dimensional, balanced, structured",
+            "Vignette": "soft edges, focus on center, dramatic fade",
+            "Line Art": "outlined, monochromatic, graphic look, clean edges",
+            "Abstract": "geometric shapes, colorful, modern art, non-representational",
+            "Symmetrical": "balanced, mirrored, harmony, orderly composition",
+            "Chaos": "disorderly, energetic, dynamic, complex layout",
+            "Centered Composition": "subject-centered, balanced, focal point",
+            "Dynamic Composition": "angled, kinetic, action-oriented, strong movement"
+        }
+    },
+    "Photography and Realism": {
+        "categories": ["none", "Analog Film: Kodachrome", "Analog Film: Black & White", "DSLR: Portrait", "DSLR: Landscape", "Cinematic Still: Epic", "Cinematic Still: Vintage", "HDR", "Long Exposure", "Vintage", "Tilt-shift", "Studio Portrait", "Macro"],
+        "tags": {
+            "none": "",
+            "Analog Film: Kodachrome": "vintage colors, grainy, nostalgic, warm tones",
+            "Analog Film: Black & White": "monochrome, grainy, retro look, high contrast",
+            "DSLR: Portrait": "sharp focus, bokeh, high resolution, face details",
+            "DSLR: Landscape": "wide shot, high clarity, vibrant colors, scenic",
+            "Cinematic Still: Epic": "dramatic, sweeping views, vivid lighting, deep focus",
+            "Cinematic Still: Vintage": "faded tones, grainy, nostalgic, filmic",
+            "HDR": "vivid colors, high contrast, intense shadows, realistic textures",
+            "Long Exposure": "blurred motion, light trails, surreal effect",
+            "Vintage": "sepia tones, aged look, retro, soft focus",
+            "Tilt-shift": "miniature effect, selective focus, blurred edges",
+            "Studio Portrait": "well-lit, professional, sharp focus, high detail",
+            "Macro": "extreme close-up, texture details, fine detail"
+        }
+    }
+}

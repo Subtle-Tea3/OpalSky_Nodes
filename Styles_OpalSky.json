@@ -1,0 +1,227 @@
+{
+    "Lighting and Atmosphere": [
+        {
+            "name": "Volumetric",
+            "prompt": "dramatic lighting, volumetric, moody, depth-enhancing light",
+            "negative_prompt": "flat lighting, no depth, harsh shadows"
+        },
+        {
+            "name": "Cinematic: Epic",
+            "prompt": "high contrast, sweeping light, vibrant, heroic tones",
+            "negative_prompt": "low contrast, bland lighting, static"
+        },
+        {
+            "name": "Cinematic: Soft Cinematic",
+            "prompt": "soft cinematic lighting, warm tones, natural ambiance",
+            "negative_prompt": "harsh shadows, high contrast, cold tones"
+        },
+        {
+            "name": "Cinematic: Vintage Cinematic",
+            "prompt": "muted tones, sepia hint, faded colors, nostalgic feel",
+            "negative_prompt": "sharp contrast, vibrant colors, modern look"
+        },
+        {
+            "name": "Cinematic: Neo-noir",
+            "prompt": "dark shadows, moody, low saturation, gritty aesthetic",
+            "negative_prompt": "bright, colorful, cheerful, high saturation"
+        },
+        {
+            "name": "Low-key",
+            "prompt": "low-key, dim light, dark atmosphere, mysterious vibe",
+            "negative_prompt": "bright, high-key, vibrant lighting"
+        },
+        {
+            "name": "High-key",
+            "prompt": "bright, airy, minimal shadows, vibrant tones",
+            "negative_prompt": "dark, low-key, moody"
+        },
+        {
+            "name": "Natural Light: Golden Hour",
+            "prompt": "warm orange glow, soft shadows, romantic ambiance",
+            "negative_prompt": "cool tones, harsh light, midday sun"
+        },
+        {
+            "name": "Natural Light: Overcast",
+            "prompt": "soft lighting, even tones, neutral shadows",
+            "negative_prompt": "harsh shadows, bright sun, uneven lighting"
+        },
+        {
+            "name": "Natural Light: Cool Light",
+            "prompt": "cool light, crisp shadows, daylight, fresh atmosphere",
+            "negative_prompt": "warm tones, golden hues, soft focus"
+        },
+        {
+            "name": "Artificial Light: Neon",
+            "prompt": "neon glow, high contrast, intense colors, futuristic look",
+            "negative_prompt": "natural lighting, muted tones, daylight"
+        },
+        {
+            "name": "Artificial Light: Spotlight",
+            "prompt": "focused light, isolated subject, theatrical effect",
+            "negative_prompt": "soft, diffused, ambient lighting"
+        },
+        {
+            "name": "Artificial Light: Studio",
+            "prompt": "balanced lighting, clean, vibrant colors, soft shadows",
+            "negative_prompt": "uneven lighting, harsh contrast, natural light"
+        }
+    ],
+    "Artistic Medium and Texture": [
+        {
+            "name": "3D Render",
+            "prompt": "3D render, photorealistic, cinematic 3D style",
+            "negative_prompt": "2D, flat, low detail"
+        },
+        {
+            "name": "Claymation",
+            "prompt": "clay art, organic texture, handcrafted, playful",
+            "negative_prompt": "smooth, digital, flat"
+        },
+        {
+            "name": "Low-poly",
+            "prompt": "low-poly, geometric shapes, minimalist design",
+            "negative_prompt": "high detail, realistic, complex shapes"
+        },
+        {
+            "name": "Pixel Art: 8-bit",
+            "prompt": "pixel art, retro, low resolution, 8-bit style",
+            "negative_prompt": "high resolution, smooth, photorealistic"
+        },
+        {
+            "name": "Pixel Art: 16-bit",
+            "prompt": "pixel art, 16-bit, retro game aesthetic",
+            "negative_prompt": "high resolution, smooth gradients, realism"
+        },
+        {
+            "name": "Origami: Paper Fold",
+            "prompt": "origami art, geometric, folded paper design",
+            "negative_prompt": "digital, flat, photorealistic"
+        },
+        {
+            "name": "Analog Film: Kodachrome",
+            "prompt": "Kodachrome film, warm tones, vintage feel",
+            "negative_prompt": "digital clarity, high saturation, modern"
+        },
+        {
+            "name": "Analog Film: Polaroid",
+            "prompt": "instant film, retro look, faded colors, vignette",
+            "negative_prompt": "sharp, high contrast, vibrant colors"
+        }
+    ],
+    "Cultural and Genre Influences": [
+        {
+            "name": "Cyberpunk: Vaporwave",
+            "prompt": "vaporwave, neon lights, futuristic, high-tech",
+            "negative_prompt": "natural lighting, historical, rural"
+        },
+        {
+            "name": "Cyberpunk: Dystopian",
+            "prompt": "dark atmosphere, gritty, neon urban, dystopian",
+            "negative_prompt": "bright, colorful, cheerful, rural"
+        },
+        {
+            "name": "Fantasy: High Fantasy",
+            "prompt": "high fantasy art, magical realism, enchanted scenery",
+            "negative_prompt": "mundane, realistic, modern"
+        },
+        {
+            "name": "Fantasy: Dark Fantasy",
+            "prompt": "dark fantasy art, grim, ominous landscapes",
+            "negative_prompt": "bright, cheerful, modern"
+        },
+        {
+            "name": "Fantasy: Elemental",
+            "prompt": "elemental fantasy, mystical forces, fire, water",
+            "negative_prompt": "urban, contemporary, industrial"
+        },
+        {
+            "name": "Anime: Shonen",
+            "prompt": "shonen anime, dynamic poses, heroic action",
+            "negative_prompt": "soft, pastel, static"
+        },
+        {
+            "name": "Anime: Shojo",
+            "prompt": "shojo anime, romantic, elegant, pastel colors",
+            "negative_prompt": "dark, gritty, muted tones"
+        },
+        {
+            "name": "Anime: Mecha",
+            "prompt": "mecha anime, futuristic robots, mechanical detail",
+            "negative_prompt": "natural, organic, soft textures"
+        },
+        {
+            "name": "Comic: Western",
+            "prompt": "western comic art, bold lines, vibrant colors",
+            "negative_prompt": "subdued, painterly, realistic proportions"
+        },
+        {
+            "name": "Retro: 80s",
+            "prompt": "80s retro, neon, vintage, geometric",
+            "negative_prompt": "modern, minimalist, high-tech"
+        },
+        {
+            "name": "Retro: 90s",
+            "prompt": "90s grunge, nostalgic, vibrant, pastel",
+            "negative_prompt": "futuristic, polished, clean"
+        },
+        {
+            "name": "Gothic Horror",
+            "prompt": "gothic horror art, dark shadows, eerie feel",
+            "negative_prompt": "bright, warm, cheerful"
+        }
+    ],
+    "Composition and Style Structure": [
+        {
+            "name": "Isometric: Classic",
+            "prompt": "isometric, geometric precision, balanced design",
+            "negative_prompt": "unstructured, dynamic, chaotic"
+        },
+        {
+            "name": "Minimalist: Soft Colors",
+            "prompt": "minimalist, pastel tones, clean design",
+            "negative_prompt": "complex, ornate, detailed"
+        },
+        {
+            "name": "Vignette: Soft",
+            "prompt": "soft vignette, warm focus, subtle shading",
+            "negative_prompt": "sharp, high contrast, flat edges"
+        },
+        {
+            "name": "Line Art: Detailed",
+            "prompt": "detailed line art, intricate, fine lines",
+            "negative_prompt": "broad strokes, painterly, high contrast"
+        },
+        {
+            "name": "Centered Composition: Portrait",
+            "prompt": "balanced portrait, centered, symmetrical",
+            "negative_prompt": "off-center, chaotic, asymmetrical"
+        }
+    ],
+    "Photography and Realism": [
+        {
+            "name": "Analog Film: Kodachrome",
+            "prompt": "Kodachrome, nostalgic film feel, grainy texture",
+            "negative_prompt": "digital clarity, high saturation, modern"
+        },
+        {
+            "name": "Photographic: Macro",
+            "prompt": "sharp focus, detailed close-up, intricate details",
+            "negative_prompt": "blurry, distant, low detail"
+        },
+        {
+            "name": "Cinematic Still: Action Shot",
+            "prompt": "cinematic action, motion blur, intense lighting",
+            "negative_prompt": "static, calm, low energy"
+        },
+        {
+            "name": "35mm: Grainy",
+            "prompt": "grainy texture, vintage look, old film style",
+            "negative_prompt": "clean, high definition, modern look"
+        },
+        {
+            "name": "DSLR: High ISO",
+            "prompt": "grainy, cinematic low light, high sensitivity",
+            "negative_prompt": "bright, clean, low ISO"
+        }
+    ]
+}
