@@ -33,7 +33,7 @@ class StringSwitchOpalSky:
     # Load bank of styles from a JSON file
     def load_bank_of_styles(self):
         current_directory = os.path.dirname(os.path.realpath(__file__))
-        json_file_path = os.path.join(current_directory, "styles.json")  # Ensure this matches the actual file name
+        json_file_path = os.path.join(current_directory, "Styles.json")  # Ensure this matches the actual file name
         if os.path.exists(json_file_path):
             with open(json_file_path, "r", encoding="utf-8") as f:
                 return json.load(f)
